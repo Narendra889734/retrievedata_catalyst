@@ -1,0 +1,36 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "2663000000002336",
+      "name": "retrievedata",
+      "domain": {
+        "id": "50011289856",
+        "name": "retrievedata-60018022909.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60018022909",
+          "name": "Development",
+          "type": 3
+        },
+        {
+          "idx": 2,
+          "id": "50011300637",
+          "name": "Production",
+          "type": 1
+        }
+      ]
+    }
+  ]
+}

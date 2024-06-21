@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "retrievedata_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}
